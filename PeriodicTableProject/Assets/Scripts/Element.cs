@@ -22,6 +22,7 @@ public class Element : MonoBehaviour
 	private void Start()
     {
 		// Store the original position of the element
+		elementCanvas.gameObject.SetActive(false);
 		originalPosition = transform.position;
 	}
 	private void OnMouseDown()
@@ -40,18 +41,6 @@ public class Element : MonoBehaviour
 
     private void OpenElementBox()
     {
-		// Check if elementCanvas is assigned
-		if (elementCanvas == null)
-		{
-			Debug.LogError("Element Canvas is not assigned. Please assign it in the Inspector.");
-			return;
-		}
-		ElementInfoUI elementInfoUI = elementCanvas.GetComponent<ElementInfoUI>();
-		if (elementInfoUI == null)
-		{
-			Debug.LogError("ElementInfoUI script is not found on the Element Canvas. Please attach it.");
-			return;
-		}
 		// Move the element closer to the player (you can adjust the position)
 		Vector3 targetPosition = Camera.main.transform.position + Camera.main.transform.forward * 5f;
 		float speed = 2f;
@@ -66,7 +55,7 @@ public class Element : MonoBehaviour
 			meltingPoint, boilingPoint, discoveredBy);
 
 		// Show 3D Bohr model
-		Instantiate(bohrModelPrefab, transform.position + new Vector3(1f, 0f, 0f), Quaternion.identity);
+		Instantiate(bohrModelPrefab, transform.position + new Vector3(0f, 0f, 0f), Quaternion.identity);
 
 		isOpen = true;
 	}

@@ -113,5 +113,5 @@ MonoBehaviour:
   meltingPoint: 0
   boilingPoint: 0
   discoveredBy: 
-  bohrModelPrefab: {fileID: 100002, guid: d8af84fa6e63b414298c216ecac279a1, type: 3}
+  bohrModelPrefab: {fileID: 0}
   elementCanvas: {fileID: 0}
