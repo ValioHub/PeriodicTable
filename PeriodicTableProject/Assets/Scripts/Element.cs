@@ -13,6 +13,7 @@ public class Element : MonoBehaviour
 	public double meltingPoint;
 	public double boilingPoint;
 	public string discoveredBy;
+	public int yearOfDiscovery;
 	public GameObject bohrModelPrefab;
 	public Canvas elementCanvas;
 
@@ -52,7 +53,7 @@ public class Element : MonoBehaviour
 		// Show  information on the UI canvas
 		elementCanvas.gameObject.SetActive(true);
 		elementCanvas.GetComponent<ElementInfoUI>().UpdateInfo(elementName, elementSymbol, description, atomicNumber, atomicWeight,
-			meltingPoint, boilingPoint, discoveredBy);
+			meltingPoint, boilingPoint, discoveredBy, yearOfDiscovery);
 
 		// Show 3D Bohr model
 		Instantiate(bohrModelPrefab, transform.position + new Vector3(0f, 0f, 0f), Quaternion.identity);
