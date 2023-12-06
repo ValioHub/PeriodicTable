@@ -2018,42 +2018,49 @@ Prefab:
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: elementName
-      value: 
+      value: "\u041F\u043B\u0430\u0442\u0438\u043D\u0430"
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: elementSymbol
-      value: 
+      value: Pt
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: description
-      value: 
+      value: "\u041F\u043B\u0430\u0442\u0438\u043D\u0438\u0443\u043C-\u043A\u043E\u0431\u0430\u043B\u0442,
+        \u0441\u043F\u043B\u0430\u0432 \u043E\u0442 \u043F\u0440\u0438\u0431\u043B\u0438\u0437\u0438\u0442\u0435\u043B\u043D\u043E
+        \u0442\u0440\u0438 \u0447\u0430\u0441\u0442\u0438 \u043F\u043B\u0430\u0442\u0438\u043D\u0430
+        \u0438 \u0435\u0434\u043D\u0430 \u0447\u0430\u0441\u0442 \u043A\u043E\u0431\u0430\u043B\u0442,
+        \u0441\u0435 \u0438\u0437\u043F\u043E\u043B\u0437\u0432\u0430 \u0437\u0430
+        \u043F\u0440\u043E\u0438\u0437\u0432\u043E\u0434\u0441\u0442\u0432\u043E \u043D\u0430
+        \u043E\u0442\u043D\u043E\u0441\u0438\u0442\u0435\u043B\u043D\u043E \u0441\u0438\u043B\u043D\u0438
+        \u043F\u043E\u0441\u0442\u043E\u044F\u043D\u043D\u0438 \u043C\u0430\u0433\u043D\u0438\u0442\u0438."
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: atomicNumber
-      value: 0
+      value: 78
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: atomicWeight
-      value: 0
+      value: 195.084
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: meltingPoint
-      value: 0
+      value: 1768
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: boilingPoint
-      value: 0
+      value: 3825
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: discoveredBy
-      value: 
+      value: "\u0410\u043D\u0442\u043E\u043D\u0438\u043E \u0434\u0435 \u0423\u043B\u044C\u043E\u0430"
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
@@ -2068,7 +2075,7 @@ Prefab:
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: yearOfDiscovery
-      value: 0
+      value: 1735
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 57946c9028d0a34469680859ce0b7473, type: 2}
@@ -2240,42 +2247,45 @@ Prefab:
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: elementName
-      value: 
+      value: "\u0415\u0440\u0431\u0438\u0439"
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: elementSymbol
-      value: 
+      value: Er
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: description
-      value: 
+      value: "\u0415\u0440\u0431\u0438\u044F\u0442 \u0438\u043C\u0430 \u0440\u043E\u0437\u043E\u0432
+        \u0446\u0432\u044F\u0442 \u0438 \u0441\u0435 \u0438\u0437\u043F\u043E\u043B\u0437\u0432\u0430
+        \u0437\u0430 \u043E\u0446\u0432\u0435\u0442\u044F\u0432\u0430\u043D\u0435
+        \u043D\u0430 \u0441\u0442\u044A\u043A\u043B\u043E \u0438 \u0433\u043B\u0430\u0437\u0443\u0440\u0438."
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: atomicNumber
-      value: 0
+      value: 68
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: atomicWeight
-      value: 0
+      value: 167.259
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: meltingPoint
-      value: 0
+      value: 1529
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: boilingPoint
-      value: 0
+      value: 2868
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: discoveredBy
-      value: 
+      value: "\u041A\u0430\u0440\u043B \u0413\u0443\u0441\u0442\u0430\u0432 \u041C\u043E\u0441\u0430\u043D\u0434\u0435\u0440"
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
@@ -2290,7 +2300,7 @@ Prefab:
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: yearOfDiscovery
-      value: 0
+      value: 1843
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 57946c9028d0a34469680859ce0b7473, type: 2}
@@ -3810,42 +3820,47 @@ Prefab:
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: elementName
-      value: 
+      value: "\u0426\u0435\u0437\u0438\u0439"
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: elementSymbol
-      value: 
+      value: Cs
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: description
-      value: 
+      value: "\u0426\u0435\u0437\u0438\u044F\u0442 \u0435 \u0435\u0434\u0438\u043D
+        \u043E\u0442 \u0441\u0430\u043C\u043E \u043F\u0435\u0442 \u0435\u043B\u0435\u043C\u0435\u043D\u0442\u043D\u0438
+        \u043C\u0435\u0442\u0430\u043B\u0438, \u043A\u043E\u0438\u0442\u043E \u0441\u0430
+        \u0442\u0435\u0447\u043D\u0438 \u043F\u0440\u0438 \u0438\u043B\u0438 \u0431\u043B\u0438\u0437\u043E
+        \u0434\u043E \u0441\u0442\u0430\u0439\u043D\u0430 \u0442\u0435\u043C\u043F\u0435\u0440\u0430\u0442\u0443\u0440\u0430."
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: atomicNumber
-      value: 0
+      value: 55
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: atomicWeight
-      value: 0
+      value: 132.9054519
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: meltingPoint
-      value: 0
+      value: 28
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: boilingPoint
-      value: 0
+      value: 670
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: discoveredBy
-      value: 
+      value: "\u0413\u0443\u0441\u0442\u0430\u0432 \u041A\u0438\u0440\u0445\u043E\u0444,
+        \u0420\u043E\u0431\u0435\u0440\u0442 \u0411\u0443\u043D\u0437\u0435\u043D"
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
@@ -3860,7 +3875,7 @@ Prefab:
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: yearOfDiscovery
-      value: 0
+      value: 1860
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 57946c9028d0a34469680859ce0b7473, type: 2}
@@ -5196,42 +5211,55 @@ Prefab:
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: elementName
-      value: 
+      value: "\u0418\u0440\u0438\u0434\u0438\u0439"
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: elementSymbol
-      value: 
+      value: Ir
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: description
-      value: 
+      value: "\u041F\u0440\u0435\u0437 \u0444\u0435\u0432\u0440\u0443\u0430\u0440\u0438
+        2019 \u0433., \u043C\u0435\u0434\u0438\u0446\u0438\u043D\u0441\u043A\u0438\u0442\u0435
+        \u0443\u0447\u0435\u043D\u0438 \u043E\u0431\u044F\u0432\u0438\u0445\u0430,
+        \u0447\u0435 \u0438\u0440\u0438\u0434\u0438\u0443\u043C\u044A\u0442, \u043F\u0440\u0438\u043A\u0440\u0435\u043F\u0435\u043D
+        \u043A\u044A\u043C \u0430\u043B\u0431\u0443\u043C\u0438\u043D, \u0441\u044A\u0437\u0434\u0430\u0432\u0430
+        \u0444\u043E\u0442\u043E\u0447\u0443\u0432\u0441\u0442\u0432\u0438\u0442\u0435\u043B\u043D\u0430
+        \u043C\u043E\u043B\u0435\u043A\u0443\u043B\u0430, \u043A\u043E\u044F\u0442\u043E
+        \u043C\u043E\u0436\u0435 \u0434\u0430 \u043F\u0440\u043E\u043D\u0438\u043A\u043D\u0435
+        \u0432 \u0440\u0430\u043A\u043E\u0432\u0438\u0442\u0435 \u043A\u043B\u0435\u0442\u043A\u0438
+        \u0438, \u0441\u043B\u0435\u0434 \u0438\u0437\u043B\u0430\u0433\u0430\u043D\u0435
+        \u043D\u0430 \u0441\u0432\u0435\u0442\u043B\u0438\u043D\u0430 (\u043F\u0440\u043E\u0446\u0435\u0441
+        \u043D\u0430\u0440\u0435\u0447\u0435\u043D \u0444\u043E\u0442\u043E\u0434\u0438\u043D\u0430\u043C\u0438\u0447\u043D\u0430
+        \u0442\u0435\u0440\u0430\u043F\u0438\u044F), \u0443\u043D\u0438\u0449\u043E\u0436\u0438
+        \u0440\u0430\u043A\u043E\u0432\u0438\u0442\u0435 \u043A\u043B\u0435\u0442\u043A\u0438."
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: atomicNumber
-      value: 0
+      value: 77
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: atomicWeight
-      value: 0
+      value: 192.217
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: meltingPoint
-      value: 0
+      value: 2446
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: boilingPoint
-      value: 0
+      value: 4428
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: discoveredBy
-      value: 
+      value: "\u0421\u043C\u0438\u0442\u0441\u044A\u043D \u0422\u0435\u043D\u0430\u043D\u0442"
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
@@ -5246,7 +5274,7 @@ Prefab:
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: yearOfDiscovery
-      value: 0
+      value: 1803
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 57946c9028d0a34469680859ce0b7473, type: 2}
@@ -5823,42 +5851,46 @@ Prefab:
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: elementName
-      value: 
+      value: "\u0425\u043E\u043B\u043C\u0438\u0439"
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: elementSymbol
-      value: 
+      value: Ho
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: description
-      value: 
+      value: "\u0425\u043E\u043B\u043C\u0438\u0443\u043C\u044A\u0442 \u0440\u0430\u0437\u043F\u043E\u043B\u0430\u0433\u0430
+        \u0441 \u043D\u0435\u043E\u0431\u0438\u0447\u0430\u0439\u043D\u0438 \u043C\u0430\u0433\u043D\u0438\u0442\u043D\u0438
+        \u0441\u0432\u043E\u0439\u0441\u0442\u0432\u0430."
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: atomicNumber
-      value: 0
+      value: 67
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: atomicWeight
-      value: 0
+      value: 164.93032
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: meltingPoint
-      value: 0
+      value: 1474
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: boilingPoint
-      value: 0
+      value: 2695
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: discoveredBy
-      value: 
+      value: "\u041F\u0435\u0440 \u0422\u0438\u043E\u0434\u043E\u0440 \u041A\u043B\u0438\u0439\u0432,
+        \u041C\u0430\u0440\u043A \u0414\u0435\u043B\u0430\u0444\u043E\u043D\u0442\u0435\u043D,
+        \u0416\u0430\u043A-\u041B\u0443\u0438\u0441 \u0417\u043E\u0440\u0435"
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
@@ -5873,7 +5905,7 @@ Prefab:
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: yearOfDiscovery
-      value: 0
+      value: 1878
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 57946c9028d0a34469680859ce0b7473, type: 2}
@@ -6422,42 +6454,45 @@ Prefab:
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: elementName
-      value: 
+      value: "\u041D\u0435\u043F\u0442\u0443\u043D\u0438\u0439"
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: elementSymbol
-      value: 
+      value: Np
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: description
-      value: 
+      value: "\u041D\u0435\u043F\u0442\u0443\u043D\u0438\u0439 \u0441\u0435 \u0438\u0437\u043F\u043E\u043B\u0437\u0432\u0430
+        \u043F\u0440\u0435\u0434\u0438\u043C\u043D\u043E \u0437\u0430 \u043D\u0430\u0443\u0447\u043D\u0438
+        \u0446\u0435\u043B\u0438 \u0438 \u0438\u0437\u0441\u043B\u0435\u0434\u0432\u0430\u043D\u0438\u044F."
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: atomicNumber
-      value: 0
+      value: 93
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: atomicWeight
-      value: 0
+      value: 237.0482
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: meltingPoint
-      value: 0
+      value: 644
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: boilingPoint
-      value: 0
+      value: 3902
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: discoveredBy
-      value: 
+      value: "\u0415\u0434\u0443\u0438\u043D \u041C\u0430\u043A\u043C\u0438\u043B\u0430\u043D,
+        \u0424\u0438\u043B\u0438\u043F \u0410\u0431\u0435\u043B\u0441\u044A\u043D"
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
@@ -6472,7 +6507,7 @@ Prefab:
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: yearOfDiscovery
-      value: 0
+      value: 1940
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 57946c9028d0a34469680859ce0b7473, type: 2}
@@ -7401,42 +7436,47 @@ Prefab:
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: elementName
-      value: 
+      value: "\u0422\u0430\u043B\u0438\u0439"
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: elementSymbol
-      value: 
+      value: Ti
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: description
-      value: 
+      value: "\u0410\u0433\u0430\u0442\u0430 \u041A\u0440\u0438\u0441\u0442\u0438
+        \u0438\u0437\u043F\u043E\u043B\u0437\u0432\u0430 \u0442\u0430\u043B\u0438\u0439
+        \u043A\u0430\u0442\u043E \u0441\u0440\u0435\u0434\u0441\u0442\u0432\u043E
+        \u0437\u0430 \u0443\u0431\u0438\u0439\u0441\u0442\u0432\u043E \u0432 \u0441\u0432\u043E\u044F
+        \u0434\u0435\u0442\u0435\u043A\u0442\u0438\u0432\u0441\u043A\u0438 \u0440\u043E\u043C\u0430\u043D
+        \"The Pale Horse\"."
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: atomicNumber
-      value: 0
+      value: 81
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: atomicWeight
-      value: 0
+      value: 204.3833
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: meltingPoint
-      value: 0
+      value: 304
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: boilingPoint
-      value: 0
+      value: 1473
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: discoveredBy
-      value: 
+      value: "\u0423\u0438\u043B\u044F\u043C \u041A\u0440\u0443\u043A\u0441"
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
@@ -7451,7 +7491,7 @@ Prefab:
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: yearOfDiscovery
-      value: 0
+      value: 1861
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 57946c9028d0a34469680859ce0b7473, type: 2}
@@ -8837,42 +8877,44 @@ Prefab:
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: elementName
-      value: 
+      value: "\u0418\u0442\u0435\u0440\u0431\u0438\u0439"
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: elementSymbol
-      value: 
+      value: Yb
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: description
-      value: 
+      value: "\u0418\u0442\u0435\u0440\u0431\u0438\u044F\u0442 \u043D\u044F\u043C\u0430
+        \u0431\u0438\u043E\u043B\u043E\u0433\u0438\u0447\u043D\u0430 \u0440\u043E\u043B\u044F."
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: atomicNumber
-      value: 0
+      value: 70
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: atomicWeight
-      value: 0
+      value: 173.04
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: meltingPoint
-      value: 0
+      value: 819
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: boilingPoint
-      value: 0
+      value: 1196
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: discoveredBy
-      value: 
+      value: "\u0416\u0430\u043D \u0428\u0430\u0440\u043B \u0413\u0430\u043B\u0438\u0441\u0430\u0440\u0434
+        \u0434\u044C\u043E \u041C\u0430\u0440\u0438\u043D\u044F\u043A"
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
@@ -8887,7 +8929,7 @@ Prefab:
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: yearOfDiscovery
-      value: 0
+      value: 1878
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 57946c9028d0a34469680859ce0b7473, type: 2}
@@ -9379,37 +9421,40 @@ Prefab:
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: elementName
-      value: 
+      value: "\u0417\u043B\u0430\u0442\u043E"
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: elementSymbol
-      value: 
+      value: Au
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: description
-      value: 
+      value: "\u0417\u043B\u0430\u0442\u043E\u0442\u043E \u0431\u0435\u0448\u0435
+        \u0435\u0434\u043D\u043E \u043E\u0442 \u043F\u044A\u0440\u0432\u0438\u0442\u0435
+        \u0447\u0438\u0441\u0442\u0438 \u043C\u0435\u0442\u0430\u043B\u0438, \u0438\u0437\u043F\u043E\u043B\u0437\u0432\u0430\u043D\u0438
+        \u043E\u0442 \u0445\u043E\u0440\u0430\u0442\u0430."
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: atomicNumber
-      value: 0
+      value: 79
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: atomicWeight
-      value: 0
+      value: 196.966569
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: meltingPoint
-      value: 0
+      value: 1064
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: boilingPoint
-      value: 0
+      value: 2700
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
@@ -10007,42 +10052,47 @@ Prefab:
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: elementName
-      value: 
+      value: "\u0413\u0430\u0434\u043E\u043B\u0438\u043D\u0438\u0439"
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: elementSymbol
-      value: 
+      value: Gd
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: description
-      value: 
+      value: "\u0413\u0430\u0434\u043E\u043B\u0438\u043D\u0438\u044F\u0442 \u0438\u043C\u0430
+        \u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u044F \u0432 \u043C\u0438\u043A\u0440\u043E\u0432\u044A\u043B\u043D\u043E\u0432\u0430\u0442\u0430
+        \u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u044F."
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: atomicNumber
-      value: 0
+      value: 64
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: atomicWeight
-      value: 0
+      value: 157.25
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: meltingPoint
-      value: 0
+      value: 1312
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: boilingPoint
-      value: 0
+      value: 3272
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: discoveredBy
-      value: 
+      value: "\u041F\u043E\u043B-\u0415\u043C\u0438\u043B \u041B\u044C\u043E\u043A\u043E\u043A
+        \u0434\u044C\u043E \u0411\u043E\u0430\u0431\u043E\u0434\u0440\u0430\u043D,
+        \u0416\u0430\u043D \u0428\u0430\u0440\u043B \u0413\u0430\u043B\u0438\u0441\u0430\u0440\u0434
+        \u0434\u044C\u043E \u041C\u0430\u0440\u0438\u043D\u044F\u043A"
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
@@ -10057,7 +10107,7 @@ Prefab:
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: yearOfDiscovery
-      value: 0
+      value: 1880
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 57946c9028d0a34469680859ce0b7473, type: 2}
@@ -10266,42 +10316,47 @@ Prefab:
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: elementName
-      value: 
+      value: "\u0411\u0435\u0440\u043A\u043B\u0438\u0439"
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: elementSymbol
-      value: 
+      value: Bk
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: description
-      value: 
+      value: "\u0411\u0435\u0440\u043A\u043B\u0438\u0439 \u0441\u044A\u0449\u0435\u0441\u0442\u0432\u0443\u0432\u0430
+        \u0432 \u0442\u043E\u043B\u043A\u043E\u0432\u0430 \u043C\u0430\u043B\u043A\u0438
+        \u043A\u043E\u043B\u0438\u0447\u0435\u0441\u0442\u0432\u0430, \u0447\u0435
+        \u043C\u043D\u043E\u0433\u043E \u043C\u0430\u043B\u043A\u043E \u0435 \u0438\u0437\u0432\u0435\u0441\u0442\u043D\u043E
+        \u0437\u0430 \u043D\u0435\u0433\u043E\u0432\u0438\u0442\u0435 \u0441\u0432\u043E\u0439\u0441\u0442\u0432\u0430."
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: atomicNumber
-      value: 0
+      value: 97
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: atomicWeight
-      value: 0
+      value: 247
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: meltingPoint
-      value: 0
+      value: 985
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: boilingPoint
-      value: 0
+      value: 2627
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: discoveredBy
-      value: 
+      value: " \u0413\u043B\u0435\u043D \u0421\u0438\u0431\u043E\u0440\u0433, \u0410\u043B\u0431\u044A\u0440\u0442
+        \u0413\u0438\u043E\u0440\u0441\u043E"
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
@@ -10316,7 +10371,7 @@ Prefab:
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: yearOfDiscovery
-      value: 0
+      value: 1949
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 57946c9028d0a34469680859ce0b7473, type: 2}
@@ -11932,42 +11987,48 @@ Prefab:
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: elementName
-      value: 
+      value: "\u041F\u0440\u043E\u043C\u0435\u0442\u0438\u0439"
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: elementSymbol
-      value: 
+      value: Pm
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: description
-      value: 
+      value: "\u041F\u0440\u043E\u043C\u0435\u0442\u0438\u044F\u0442 \u0441\u0435
+        \u0438\u0437\u043F\u043E\u043B\u0437\u0432\u0430 \u0432 \u0430\u0442\u043E\u043C\u043D\u0438
+        \u0431\u0430\u0442\u0435\u0440\u0438\u0438. \u0422\u0435\u0437\u0438 \u0431\u0430\u0442\u0435\u0440\u0438\u0438
+        \u0438\u043C\u0430\u0442 \u043F\u043E\u043B\u0435\u0437\u0435\u043D \u0436\u0438\u0432\u043E\u0442
+        \u043E\u0442 \u043E\u043A\u043E\u043B\u043E \u043F\u0435\u0442 \u0433\u043E\u0434\u0438\u043D\u0438."
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: atomicNumber
-      value: 0
+      value: 61
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: atomicWeight
-      value: 0
+      value: 145
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: meltingPoint
-      value: 0
+      value: 1042
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: boilingPoint
-      value: 0
+      value: 3000
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: discoveredBy
-      value: 
+      value: "\u0414\u0436\u0435\u0439\u043A\u044A\u0431 \u041C\u0430\u0440\u0438\u043D\u0441\u043A\u0438,
+        \u0427\u0430\u0440\u043B\u0437 \u041A\u043E\u0440\u0439\u0435\u043B, \u041B\u043E\u0440\u044A\u043D\u0441
+        \u0413\u043B\u0435\u043D\u0434\u0435\u043D\u0438\u043D"
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
@@ -11982,7 +12043,7 @@ Prefab:
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: yearOfDiscovery
-      value: 0
+      value: 1945
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 57946c9028d0a34469680859ce0b7473, type: 2}
@@ -12531,42 +12592,49 @@ Prefab:
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: elementName
-      value: 
+      value: "\u0420\u0435\u043D\u0438\u0439"
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: elementSymbol
-      value: 
+      value: Re
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: description
-      value: 
+      value: "\u0420\u0435\u043D\u0438\u0439\u0442 \u0441\u0435 \u0434\u043E\u0431\u0430\u0432\u044F
+        \u043A\u044A\u043C \u0441\u0443\u043F\u0435\u0440\u0441\u043F\u043B\u0430\u0432\u0438\u0442\u0435
+        \u0441 \u0432\u0438\u0441\u043E\u043A\u0430 \u0442\u0435\u043C\u043F\u0435\u0440\u0430\u0442\u0443\u0440\u0430,
+        \u043A\u043E\u0438\u0442\u043E \u0441\u0435 \u0438\u0437\u043F\u043E\u043B\u0437\u0432\u0430\u0442
+        \u0437\u0430 \u043F\u0440\u043E\u0438\u0437\u0432\u043E\u0434\u0441\u0442\u0432\u043E
+        \u043D\u0430 \u0447\u0430\u0441\u0442\u0438 \u0437\u0430 \u0440\u0435\u0430\u043A\u0442\u0438\u0432\u043D\u0438
+        \u0434\u0432\u0438\u0433\u0430\u0442\u0435\u043B\u0438."
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: atomicNumber
-      value: 0
+      value: 75
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: atomicWeight
-      value: 0
+      value: 186.207
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: meltingPoint
-      value: 0
+      value: 3185
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: boilingPoint
-      value: 0
+      value: 5597
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: discoveredBy
-      value: 
+      value: "\u0412\u0430\u043B\u0442\u0435\u0440 \u041D\u043E\u0434\u0430\u043A,
+        \u0418\u0434\u0430 \u041D\u043E\u0434\u0430\u043A, \u041E\u0442\u043E \u0411\u0435\u0440\u0433"
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
@@ -12581,7 +12649,7 @@ Prefab:
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: yearOfDiscovery
-      value: 0
+      value: 1925
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 57946c9028d0a34469680859ce0b7473, type: 2}
@@ -13359,42 +13427,51 @@ Prefab:
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: elementName
-      value: 
+      value: "\u0422\u043E\u0440\u0438\u0439"
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: elementSymbol
-      value: 
+      value: Th
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: description
-      value: 
+      value: "\u0414\u0438\u043E\u043A\u0441\u0438\u0434\u044A\u0442 \u043D\u0430
+        \u0442\u043E\u0440\u0438\u0439 \u0441\u0435 \u0441\u0440\u0435\u0449\u0430
+        \u0432 \u0443\u0441\u0442\u043E\u0439\u0447\u0438\u0432\u0438 \u043D\u0430
+        \u0432\u0438\u0441\u043E\u043A\u0430 \u0442\u0435\u043C\u043F\u0435\u0440\u0430\u0442\u0443\u0440\u0430
+        \u043A\u0435\u0440\u0430\u043C\u0438\u0447\u043D\u0438 \u043C\u0430\u0442\u0435\u0440\u0438\u0430\u043B\u0438,
+        \u043A\u0430\u0442\u043E \u043D\u0430\u043F\u0440\u0438\u043C\u0435\u0440
+        \u043A\u0440\u0438\u0441\u0442\u0430\u043B\u043D\u0438 \u0447\u0430\u0448\u0438
+        \u0437\u0430 \u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0438
+        \u0438\u0437\u0441\u043B\u0435\u0434\u0432\u0430\u043D\u0438\u044F \u043F\u0440\u0438
+        \u0432\u0438\u0441\u043E\u043A\u0438 \u0442\u0435\u043C\u043F\u0435\u0440\u0430\u0442\u0443\u0440\u0438."
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: atomicNumber
-      value: 0
+      value: 90
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: atomicWeight
-      value: 0
+      value: 232.03806
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: meltingPoint
-      value: 0
+      value: 1755
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: boilingPoint
-      value: 0
+      value: 4787
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: discoveredBy
-      value: 
+      value: "\u0419\u043E\u043D\u0441 \u0411\u0435\u0440\u0446\u0435\u043B\u0438\u0443\u0441"
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
@@ -13409,7 +13486,7 @@ Prefab:
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: yearOfDiscovery
-      value: 0
+      value: 1828
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 57946c9028d0a34469680859ce0b7473, type: 2}
@@ -13543,42 +13620,49 @@ Prefab:
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: elementName
-      value: 
+      value: "\u0410\u043A\u0442\u0438\u043D\u0438\u0439"
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: elementSymbol
-      value: 
+      value: Ac
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: description
-      value: 
+      value: "\u0410\u043A\u0442\u0438\u043D\u0438\u0443\u043C\u044A\u0442 \u0441\u0432\u0435\u0442\u0438
+        \u0432 \u0442\u044A\u043C\u043D\u043E\u0442\u043E \u0441 \u0431\u043B\u0435\u0434\u043E
+        \u0441\u0438\u043D\u044F \u0441\u0432\u0435\u0442\u043B\u0438\u043D\u0430,
+        \u043A\u043E\u044F\u0442\u043E \u043F\u0440\u043E\u0438\u0437\u0445\u043E\u0436\u0434\u0430
+        \u043E\u0442 \u043E\u043A\u043E\u043B\u043D\u0438\u0442\u0435 \u0432\u044A\u0437\u0434\u0443\u0448\u043D\u0438
+        \u0447\u0430\u0441\u0442\u0438\u0446\u0438, \u0439\u043E\u043D\u0438\u0437\u0438\u0440\u0430\u043D\u0438
+        \u043E\u0442 \u0438\u0437\u043B\u044A\u0447\u0435\u043D\u0438\u0442\u0435
+        \u0435\u043D\u0435\u0440\u0433\u0438\u0439\u043D\u0438 \u0447\u0430\u0441\u0442\u0438\u0446\u0438."
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: atomicNumber
-      value: 0
+      value: 89
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: atomicWeight
-      value: 0
+      value: 227
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: meltingPoint
-      value: 0
+      value: 1050
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: boilingPoint
-      value: 0
+      value: 3197
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: discoveredBy
-      value: 
+      value: "\u0410\u043D\u0434\u0440\u0435-\u041B\u0443\u0438 \u0414\u0435\u0431\u0438\u0435\u0440\u043D"
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
@@ -13593,7 +13677,7 @@ Prefab:
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: yearOfDiscovery
-      value: 0
+      value: 1899
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 57946c9028d0a34469680859ce0b7473, type: 2}
@@ -14249,42 +14333,46 @@ Prefab:
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: elementName
-      value: 
+      value: "\u041F\u0440\u043E\u0442\u0430\u043A\u0442\u0438\u043D\u0438\u0439"
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: elementSymbol
-      value: 
+      value: Pa
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: description
-      value: 
+      value: "\u041F\u0440\u043E\u0442\u0430\u043A\u0442\u0438\u043D\u0438\u0439 \u0435
+        \u0435\u0434\u0438\u043D \u043E\u0442 \u043D\u0430\u0439-\u0440\u0435\u0434\u043A\u0438\u0442\u0435
+        \u0438 \u043D\u0430\u0439-\u0441\u043A\u044A\u043F\u0438 \u043F\u0440\u0438\u0440\u043E\u0434\u043D\u043E
+        \u0441\u044A\u0449\u0435\u0441\u0442\u0432\u0443\u0432\u0430\u0449\u0438 \u0435\u043B\u0435\u043C\u0435\u043D\u0442\u0438."
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: atomicNumber
-      value: 0
+      value: 91
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: atomicWeight
-      value: 0
+      value: 231.03588
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: meltingPoint
-      value: 0
+      value: 1568
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: boilingPoint
-      value: 0
+      value: 4000
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: discoveredBy
-      value: 
+      value: "\u041A\u0430\u0437\u0438\u043C\u0438\u0440\u0437 \u0424\u0430\u044F\u043D\u0441,
+        \u041E\u0442\u043E \u0413\u044C\u043E\u0440\u0438\u043D\u0433"
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
@@ -14299,7 +14387,7 @@ Prefab:
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: yearOfDiscovery
-      value: 0
+      value: 1913
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 57946c9028d0a34469680859ce0b7473, type: 2}
@@ -18153,42 +18241,48 @@ Prefab:
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: elementName
-      value: 
+      value: "\u0424\u0440\u0430\u043D\u0446\u0438\u0439"
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: elementSymbol
-      value: 
+      value: Fr
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: description
-      value: 
+      value: "\u0421\u0430\u043C\u043E \u043A\u043E\u043B\u043A\u043E\u0442\u043E
+        20\u201330 \u0433 (\u0435\u0434\u0438\u043D \u0443\u043D\u0446) \u0441\u044A\u0449\u0435\u0441\u0442\u0432\u0443\u0432\u0430
+        \u043F\u043E \u0432\u0441\u044F\u043A\u043E \u0432\u0440\u0435\u043C\u0435
+        \u0432 \u0437\u0435\u043C\u043D\u0430\u0442\u0430 \u043A\u043E\u0440\u0430;
+        \u043E\u0441\u0442\u0430\u043D\u0430\u043B\u0438\u0442\u0435 \u0438\u0437\u043E\u0442\u043E\u043F\u0438
+        (\u043E\u0441\u0432\u0435\u043D \u0444\u0440\u0430\u043D\u0446\u0438\u0439-221)
+        \u0441\u0430 \u043D\u0430\u043F\u044A\u043B\u043D\u043E \u0441\u0438\u043D\u0442\u0435\u0442\u0438\u0447\u043D\u0438."
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: atomicNumber
-      value: 0
+      value: 87
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: atomicWeight
-      value: 0
+      value: 223
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: meltingPoint
-      value: 0
+      value: 27
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: boilingPoint
-      value: 0
+      value: 677
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: discoveredBy
-      value: 
+      value: "\u041C\u0430\u0440\u0433\u044C\u043E\u0440\u0438\u0442 \u041F\u0435\u0440\u0435\u0439"
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
@@ -18203,7 +18297,7 @@ Prefab:
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: yearOfDiscovery
-      value: 0
+      value: 1939
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 57946c9028d0a34469680859ce0b7473, type: 2}
@@ -18635,42 +18729,49 @@ Prefab:
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: elementName
-      value: 
+      value: "\u0425\u0430\u0444\u043D\u0438\u0439"
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: elementSymbol
-      value: 
+      value: Hf
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: description
-      value: 
+      value: "\u0413\u043E\u043B\u044F\u043C\u0430\u0442\u0430 \u0447\u0430\u0441\u0442
+        \u043E\u0442 \u043F\u0440\u043E\u0438\u0437\u0432\u0435\u0434\u0435\u043D\u0438\u044F\u0442
+        \u0445\u0430\u0444\u043D\u0438\u0439 \u0441\u0435 \u0438\u0437\u043F\u043E\u043B\u0437\u0432\u0430
+        \u0437\u0430 \u043F\u0440\u043E\u0438\u0437\u0432\u043E\u0434\u0441\u0442\u0432\u043E
+        \u043D\u0430 \u0440\u0435\u0433\u0443\u043B\u0438\u0440\u0430\u0449\u0438
+        \u043F\u0440\u044A\u0442\u0438 \u0437\u0430 \u044F\u0434\u0440\u0435\u043D\u0438
+        \u0440\u0435\u0430\u043A\u0442\u043E\u0440\u0438."
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: atomicNumber
-      value: 0
+      value: 72
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: atomicWeight
-      value: 0
+      value: 178.49
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: meltingPoint
-      value: 0
+      value: 2227
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: boilingPoint
-      value: 0
+      value: 4602
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: discoveredBy
-      value: 
+      value: "\u0414\u044C\u043E\u0440\u0434 \u0434\u0435 \u0425\u0435\u0432\u0435\u0448\u0438,
+        \u0414\u0438\u0440\u043A \u041A\u043E\u0441\u0442\u0435\u0440"
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
@@ -18685,7 +18786,7 @@ Prefab:
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: yearOfDiscovery
-      value: 0
+      value: 1923
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 57946c9028d0a34469680859ce0b7473, type: 2}
@@ -18894,42 +18995,45 @@ Prefab:
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: elementName
-      value: 
+      value: "\u041F\u0440\u0430\u0437\u0435\u043E\u0434\u0438\u043C"
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: elementSymbol
-      value: 
+      value: Pr
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: description
-      value: 
+      value: "\u041F\u0440\u0430\u0437\u0435\u043E\u0434\u0438\u043C\u0438\u044F\u0442
+        \u0441\u0435 \u0438\u0437\u043F\u043E\u043B\u0437\u0432\u0430 \u0437\u0430
+        \u0432\u0435\u0442\u0440\u043E\u0433\u0435\u043D\u0435\u0440\u0430\u0442\u043E\u0440\u0438."
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: atomicNumber
-      value: 0
+      value: 59
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: atomicWeight
-      value: 0
+      value: 140.90765
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: meltingPoint
-      value: 0
+      value: 931
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: boilingPoint
-      value: 0
+      value: 3520
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: discoveredBy
-      value: 
+      value: "\u041A\u0430\u0440\u043B \u0410\u0443\u0435\u0440 \u0444\u043E\u043D
+        \u0412\u0435\u043B\u0441\u0431\u0430\u0445"
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
@@ -18944,7 +19048,7 @@ Prefab:
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: yearOfDiscovery
-      value: 0
+      value: 1885
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 57946c9028d0a34469680859ce0b7473, type: 2}
@@ -19567,42 +19671,53 @@ Prefab:
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: elementName
-      value: 
+      value: "\u041F\u043B\u0443\u0442\u043E\u043D\u0438\u0439"
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: elementSymbol
-      value: 
+      value: Pu
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: description
-      value: 
+      value: "\u0410\u043A\u043E \u0434\u043E\u043A\u043E\u0441\u043D\u0435\u0442\u0435
+        \u043C\u0430\u043B\u044A\u043A \u043F\u0430\u0440\u0447\u0435 \u043F\u043B\u0443\u0442\u043E\u043D\u0438\u0439,
+        \u0442\u043E \u0449\u0435 \u0438\u0437\u0433\u043B\u0435\u0436\u0434\u0430
+        \u0442\u043E\u043F\u043B\u043E \u043F\u043E\u0440\u0430\u0434\u0438 \u0435\u043D\u0435\u0440\u0433\u0438\u044F\u0442\u0430,
+        \u043E\u0441\u0432\u043E\u0431\u043E\u0436\u0434\u0430\u0432\u0430\u0449\u0430
+        \u0441\u0435 \u043F\u0440\u0438 \u0430\u043B\u0444\u0430-\u0440\u0430\u0437\u043F\u0430\u0434.
+        \u041F\u043E-\u0433\u043E\u043B\u044F\u043C\u043E \u043A\u043E\u043B\u0438\u0447\u0435\u0441\u0442\u0432\u043E
+        \u043E\u0442 \u043C\u0435\u0442\u0430\u043B\u0430 \u043C\u043E\u0436\u0435
+        \u0434\u0430 \u0437\u0430\u0432\u0440\u0438 \u0432\u043E\u0434\u0430."
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: atomicNumber
-      value: 0
+      value: 94
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: atomicWeight
-      value: 0
+      value: 244
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: meltingPoint
-      value: 0
+      value: 639
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: boilingPoint
-      value: 0
+      value: 3232
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: discoveredBy
-      value: 
+      value: "\u0413\u043B\u0435\u043D \u0421\u0438\u0431\u043E\u0440\u0433, \u0415\u0434\u0443\u0438\u043D
+        \u041C\u0430\u043A\u043C\u0438\u043B\u0430\u043D, \u0410\u0440\u0442\u044A\u0440
+        \u0423\u043E\u043B, \u0414\u0436\u043E\u0443\u0437\u0435\u0444 \u0423\u0438\u043B\u044F\u043C
+        \u041A\u0435\u043D\u0435\u0434\u0438"
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
@@ -19617,7 +19732,7 @@ Prefab:
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: yearOfDiscovery
-      value: 0
+      value: 1940
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 57946c9028d0a34469680859ce0b7473, type: 2}
@@ -19825,42 +19940,61 @@ Prefab:
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: elementName
-      value: 
+      value: "\u0411\u0438\u0441\u043C\u0443\u0442 "
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: elementSymbol
-      value: 
+      value: Bi
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: description
-      value: 
+      value: "\u0421\u043F\u0438\u0440\u0430\u043B\u043D\u0430\u0442\u0430 \u0441\u0442\u044A\u043B\u0431\u043E\u0432\u0438\u0434\u043D\u0430
+        \u0441\u0442\u0440\u0443\u043A\u0442\u0443\u0440\u0430 \u043D\u0430 \u043A\u0440\u0438\u0441\u0442\u0430\u043B\u0438\u0442\u0435
+        \u043E\u0442 \u0431\u0438\u0437\u043C\u0443\u0442 \u0435 \u0440\u0435\u0437\u0443\u043B\u0442\u0430\u0442
+        \u043E\u0442 \u043F\u043E-\u0432\u0438\u0441\u043E\u043A\u0430\u0442\u0430
+        \u0441\u043A\u043E\u0440\u043E\u0441\u0442 \u043D\u0430 \u0440\u0430\u0441\u0442\u0435\u0436
+        \u043F\u043E \u0432\u044A\u043D\u0448\u043D\u0438\u0442\u0435 \u0440\u044A\u0431\u043E\u0432\u0435
+        \u0432 \u0441\u0440\u0430\u0432\u043D\u0435\u043D\u0438\u0435 \u0441\u044A\u0441
+        \u0432\u044A\u0442\u0440\u0435\u0448\u043D\u0438\u0442\u0435. \u0412\u0430\u0440\u0438\u0430\u0446\u0438\u0438\u0442\u0435
+        \u0432 \u0434\u0435\u0431\u0435\u043B\u0438\u043D\u0430\u0442\u0430 \u043D\u0430
+        \u043E\u043A\u0441\u0438\u0434\u043D\u0438\u044F \u0441\u043B\u043E\u0439,
+        \u043A\u043E\u0439\u0442\u043E \u0441\u0435 \u0444\u043E\u0440\u043C\u0438\u0440\u0430
+        \u043D\u0430 \u043F\u043E\u0432\u044A\u0440\u0445\u043D\u043E\u0441\u0442\u0442\u0430
+        \u043D\u0430 \u043A\u0440\u0438\u0441\u0442\u0430\u043B\u0430, \u043F\u0440\u0435\u0434\u0438\u0437\u0432\u0438\u043A\u0432\u0430\u0442
+        \u0438\u043D\u0442\u0435\u0440\u0444\u0435\u0440\u0435\u043D\u0446\u0438\u044F
+        \u043D\u0430 \u0440\u0430\u0437\u043B\u0438\u0447\u043D\u0438 \u0434\u044A\u043B\u0436\u0438\u043D\u0438
+        \u043D\u0430 \u0441\u0432\u0435\u0442\u043B\u0438\u043D\u043D\u0438 \u0432\u044A\u043B\u043D\u0438
+        \u043F\u0440\u0438 \u043E\u0442\u0440\u0430\u0436\u0435\u043D\u0438\u0435,
+        \u043A\u043E\u0435\u0442\u043E \u0432\u043E\u0434\u0438 \u0434\u043E \u043F\u043E\u044F\u0432\u0430\u0442\u0430
+        \u043D\u0430 \u0434\u044A\u0433\u0430 \u043E\u0442 \u0446\u0432\u0435\u0442\u043E\u0432\u0435."
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: atomicNumber
-      value: 0
+      value: 83
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: atomicWeight
-      value: 0
+      value: 208.9804
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: meltingPoint
-      value: 0
+      value: 271
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: boilingPoint
-      value: 0
+      value: 1564
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: discoveredBy
-      value: 
+      value: "\u041A\u043B\u043E\u0434 \u0424\u0440\u0430\u043D\u0441\u043E\u0430
+        \u0416\u043E\u0444\u0440\u043E\u0430"
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
@@ -19875,7 +20009,7 @@ Prefab:
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: yearOfDiscovery
-      value: 0
+      value: 1753
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 57946c9028d0a34469680859ce0b7473, type: 2}
@@ -21132,42 +21266,48 @@ Prefab:
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: elementName
-      value: 
+      value: "\u0412\u043E\u043B\u0444\u0440\u0430\u043C"
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: elementSymbol
-      value: 
+      value: W
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: description
-      value: 
+      value: "\u0421\u043F\u043B\u0430\u0432\u0438\u0442\u0435 \u043D\u0430 \u0432\u043E\u043B\u0444\u0440\u0430\u043C
+        \u0438\u043C\u0430\u0442 \u043C\u043D\u043E\u0436\u0435\u0441\u0442\u0432\u043E
+        \u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u044F, \u0432\u043A\u043B\u044E\u0447\u0438\u0442\u0435\u043B\u043D\u043E
+        \u043A\u0430\u0442\u043E \u043D\u0438\u0448\u043A\u0438 \u0437\u0430 \u043A\u0440\u0443\u0448\u043A\u0438
+        \u0441 \u043D\u0438\u0442\u044C\u043E\u0432\u0430 \u0436\u0430\u0440\u043E\u0432\u043D\u0430
+        \u043B\u0430\u043C\u043F\u0430."
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: atomicNumber
-      value: 0
+      value: 74
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: atomicWeight
-      value: 0
+      value: 183.84
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: meltingPoint
-      value: 0
+      value: 3422
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: boilingPoint
-      value: 0
+      value: 5555
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: discoveredBy
-      value: 
+      value: "\u041A\u0430\u0440\u043B \u0412\u0438\u043B\u0445\u0435\u043B\u043C
+        \u0428\u0435\u0435\u043B\u0435"
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
@@ -21182,7 +21322,7 @@ Prefab:
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: yearOfDiscovery
-      value: 0
+      value: 1783
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 57946c9028d0a34469680859ce0b7473, type: 2}
@@ -21650,42 +21790,47 @@ Prefab:
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: elementName
-      value: 
+      value: "\u0426\u0435\u0440\u0438\u0439"
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: elementSymbol
-      value: 
+      value: Ce
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: description
-      value: 
+      value: "\u0426\u0435\u0440\u0438\u044F\u0442 \u0441\u0435 \u0438\u0437\u043F\u043E\u043B\u0437\u0432\u0430
+        \u0432 \u0441\u0442\u0435\u043D\u0438\u0442\u0435 \u043D\u0430 \u0441\u0430\u043C\u043E\u043E\u0447\u0438\u0441\u0442\u0432\u0430\u0449\u0438\u0442\u0435
+        \u0444\u0443\u0440\u043D\u0438."
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: atomicNumber
-      value: 0
+      value: 59
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: atomicWeight
-      value: 0
+      value: 140.116
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: meltingPoint
-      value: 0
+      value: 795
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: boilingPoint
-      value: 0
+      value: 3257
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: discoveredBy
-      value: 
+      value: "\u0419\u043E\u043D\u0441 \u0411\u0435\u0440\u0446\u0435\u043B\u0438\u0443\u0441,
+        \u041C\u0430\u0440\u0442\u0438\u043D \u0425\u0430\u0439\u043D\u0440\u0438\u0445
+        \u041A\u043B\u0430\u043F\u0440\u043E\u0442, \u041A\u0430\u0440\u043B \u0413\u0443\u0441\u0442\u0430\u0432
+        \u041C\u043E\u0441\u0430\u043D\u0434\u0435\u0440"
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
@@ -21700,7 +21845,7 @@ Prefab:
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: yearOfDiscovery
-      value: 0
+      value: 1803
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 57946c9028d0a34469680859ce0b7473, type: 2}
@@ -22760,42 +22905,46 @@ Prefab:
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: elementName
-      value: 
+      value: "\u041F\u043E\u043B\u043E\u043D\u0438\u0439"
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: elementSymbol
-      value: 
+      value: Po
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: description
-      value: 
+      value: "\u041F\u043E\u043B\u043E\u043D\u0438\u044F\u0442 \u0441\u0435 \u0441\u0440\u0435\u0449\u0430
+        \u0432 \u0445\u0440\u0430\u043D\u0438\u0442\u0435\u043B\u043D\u0430\u0442\u0430
+        \u0432\u0435\u0440\u0438\u0433\u0430, \u043E\u0441\u043E\u0431\u0435\u043D\u043E
+        \u0432 \u043C\u043E\u0440\u0441\u043A\u0438\u0442\u0435 \u043F\u0440\u043E\u0434\u0443\u043A\u0442\u0438."
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: atomicNumber
-      value: 0
+      value: 84
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: atomicWeight
-      value: 0
+      value: 209
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: meltingPoint
-      value: 0
+      value: 254
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: boilingPoint
-      value: 0
+      value: 962
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: discoveredBy
-      value: 
+      value: "\u041C\u0430\u0440\u0438\u044F \u041A\u044E\u0440\u0438, \u041F\u0438\u0435\u0440
+        \u041A\u044E\u0440\u0438"
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
@@ -22810,7 +22959,7 @@ Prefab:
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: yearOfDiscovery
-      value: 0
+      value: 1898
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 57946c9028d0a34469680859ce0b7473, type: 2}
@@ -23571,42 +23720,46 @@ Prefab:
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: elementName
-      value: 
+      value: "\u0423\u0440\u0430\u043D"
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: elementSymbol
-      value: 
+      value: U
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: description
-      value: 
+      value: "\u041E\u0441\u043D\u043E\u0432\u043D\u043E\u0442\u043E \u0438\u0437\u043F\u043E\u043B\u0437\u0432\u0430\u043D\u0435
+        \u043D\u0430 \u0443\u0440\u0430\u043D\u0438\u0439 \u0435 \u043A\u0430\u0442\u043E
+        \u0433\u043E\u0440\u0438\u0432\u043E \u0437\u0430 \u044F\u0434\u0440\u0435\u043D\u0438
+        \u0435\u043B\u0435\u043A\u0442\u0440\u043E\u0446\u0435\u043D\u0442\u0440\u0430\u043B\u0438."
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: atomicNumber
-      value: 0
+      value: 92
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: atomicWeight
-      value: 0
+      value: 238.02891
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: meltingPoint
-      value: 0
+      value: 1132
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: boilingPoint
-      value: 0
+      value: 4131
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: discoveredBy
-      value: 
+      value: "\u041C\u0430\u0440\u0442\u0438\u043D \u0425\u0430\u0439\u043D\u0440\u0438\u0445
+        \u041A\u043B\u0430\u043F\u0440\u043E\u0442"
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
@@ -23621,7 +23774,7 @@ Prefab:
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: yearOfDiscovery
-      value: 0
+      value: 1789
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 57946c9028d0a34469680859ce0b7473, type: 2}
@@ -24382,42 +24535,48 @@ Prefab:
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: elementName
-      value: 
+      value: "\u0415\u0432\u0440\u043E\u043F\u0438\u0439"
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: elementSymbol
-      value: 
+      value: Eu
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: description
-      value: 
+      value: "\u0415\u0432\u0440\u043E\u043F\u0438\u044F\u0442 \u0441\u0442\u0430\u0432\u0430
+        \u0441\u0443\u043F\u0435\u0440\u043F\u0440\u043E\u0432\u043E\u0434\u043D\u0438\u043A,
+        \u043A\u043E\u0433\u0430\u0442\u043E \u0431\u044A\u0434\u0435 \u043E\u0445\u043B\u0430\u0434\u0435\u043D
+        \u043F\u043E\u0434 1,8 K \u0438 \u043A\u043E\u043C\u043F\u0440\u0435\u0441\u0438\u0440\u0430\u043D
+        \u043D\u0430\u0434 80 GPa."
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: atomicNumber
-      value: 0
+      value: 63
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: atomicWeight
-      value: 0
+      value: 151.964
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: meltingPoint
-      value: 0
+      value: 826
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: boilingPoint
-      value: 0
+      value: 1529
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: discoveredBy
-      value: 
+      value: "\u041F\u043E\u043B-\u0415\u043C\u0438\u043B \u041B\u044C\u043E\u043A\u043E\u043A
+        \u0434\u044C\u043E \u0411\u043E\u0430\u0431\u043E\u0434\u0440\u0430\u043D,
+        \u0419\u043E\u0436\u0435\u043D-\u0410\u043D\u0430\u0442\u043E\u043B \u0414\u0435\u043C\u0430\u0440\u0441\u0435"
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
@@ -24432,7 +24591,7 @@ Prefab:
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: yearOfDiscovery
-      value: 0
+      value: 1901
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 57946c9028d0a34469680859ce0b7473, type: 2}
@@ -24787,42 +24946,46 @@ Prefab:
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: elementName
-      value: 
+      value: "\u0410\u0441\u0442\u0430\u0442"
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: elementSymbol
-      value: 
+      value: At
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: description
-      value: 
+      value: "\u041D\u044F\u043A\u043E\u0438 \u0441\u0432\u043E\u0439\u0441\u0442\u0432\u0430
+        \u043D\u0430 \u0430\u0441\u0442\u0430\u0442\u0438\u043D\u0430 \u0432\u0441\u0435
+        \u043E\u0449\u0435 \u043D\u0435 \u0441\u0430 \u0438\u0437\u0432\u0435\u0441\u0442\u043D\u0438,
+        \u043D\u0430\u043F\u0440\u0438\u043C\u0435\u0440 \u043D\u0435\u0433\u043E\u0432\u0438\u044F\u0442
+        \u0446\u0432\u044F\u0442."
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: atomicNumber
-      value: 0
+      value: 85
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: atomicWeight
-      value: 0
+      value: 210
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: meltingPoint
-      value: 0
+      value: 302
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: boilingPoint
-      value: 0
+      value: 337
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: discoveredBy
-      value: 
+      value: "\u0415\u043C\u0438\u043B\u0438\u043E \u0421\u0435\u0433\u0440\u0435"
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
@@ -24837,7 +25000,7 @@ Prefab:
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: yearOfDiscovery
-      value: 0
+      value: 1940
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 57946c9028d0a34469680859ce0b7473, type: 2}
@@ -25545,42 +25708,56 @@ Prefab:
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: elementName
-      value: 
+      value: "\u0422\u0430\u043D\u0442\u0430\u043B"
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: elementSymbol
-      value: 
+      value: Ta
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: description
-      value: 
+      value: "\u0422\u0430\u043D\u0442\u0430\u043B\u0430 \u0441\u0435 \u0438\u0437\u043F\u043E\u043B\u0437\u0432\u0430
+        \u0448\u0438\u0440\u043E\u043A\u043E \u0437\u0430 \u043F\u0440\u043E\u0438\u0437\u0432\u043E\u0434\u0441\u0442\u0432\u043E
+        \u043D\u0430 \u0445\u0438\u0440\u0443\u0440\u0433\u0438\u0447\u0435\u0441\u043A\u0438
+        \u0438\u043D\u0441\u0442\u0440\u0443\u043C\u0435\u043D\u0442\u0438 \u0438
+        \u0438\u043C\u043F\u043B\u0430\u043D\u0442\u0438, \u0442\u044A\u0439 \u043A\u0430\u0442\u043E
+        \u0443\u0441\u0442\u043E\u0439\u0447\u0438\u0432\u043E\u0441\u0442\u0442\u0430
+        \u043C\u0443 \u043A\u044A\u043C \u0432\u044A\u0437\u0434\u0435\u0439\u0441\u0442\u0432\u0438\u0435
+        \u043E\u0442 \u0442\u0435\u0447\u043D\u043E\u0441\u0442\u0438 \u0432 \u0442\u044F\u043B\u043E\u0442\u043E
+        \u0438 \u043E\u0442\u0441\u044A\u0441\u0442\u0432\u0438\u0435\u0442\u043E
+        \u043D\u0430 \u0440\u0430\u0437\u0434\u0440\u0430\u0437\u043D\u0438\u0442\u0435\u043B\u043D\u0438
+        \u0441\u0432\u043E\u0439\u0441\u0442\u0432\u0430 \u0433\u043E \u043F\u0440\u0430\u0432\u044F\u0442
+        \u043F\u043E\u0434\u0445\u043E\u0434\u044F\u0449 \u0437\u0430 \u0442\u0435\u0437\u0438
+        \u043C\u0435\u0434\u0438\u0446\u0438\u043D\u0441\u043A\u0438 \u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u044F."
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: atomicNumber
-      value: 0
+      value: 73
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: atomicWeight
-      value: 0
+      value: 180.94788
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: meltingPoint
-      value: 0
+      value: 3020
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: boilingPoint
-      value: 0
+      value: 5457
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: discoveredBy
-      value: 
+      value: "\u0410\u043D\u0434\u0435\u0440\u0441 \u0413\u0443\u0441\u0442\u0430\u0444
+        \u0415\u043A\u0435\u0431\u0435\u0440\u0433 \u0428\u0432\u0435\u0434\u0441\u043A\u0438
+        \u0445\u0438\u043C\u0438\u043A "
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
@@ -25595,7 +25772,7 @@ Prefab:
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: yearOfDiscovery
-      value: 0
+      value: 1802
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 57946c9028d0a34469680859ce0b7473, type: 2}
@@ -28835,42 +29012,44 @@ Prefab:
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: elementName
-      value: 
+      value: "\u0422\u0435\u0440\u0431\u0438\u0439"
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: elementSymbol
-      value: 
+      value: Tb
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: description
-      value: 
+      value: "\u0422\u0435\u0440\u0431\u0438\u044F\u0442 \u0435 \u043F\u043E-\u0440\u0430\u0437\u043F\u0440\u043E\u0441\u0442\u0440\u0430\u043D\u0435\u043D
+        \u043E\u0442 \u043C\u0435\u0442\u0430\u043B\u0438 \u043A\u0430\u0442\u043E
+        \u0441\u0440\u0435\u0431\u0440\u043E \u0438 \u0436\u0438\u0432\u0430\u043A."
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: atomicNumber
-      value: 0
+      value: 65
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: atomicWeight
-      value: 0
+      value: 158.92535
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: meltingPoint
-      value: 0
+      value: 1356
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: boilingPoint
-      value: 0
+      value: 3230
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: discoveredBy
-      value: 
+      value: "\u041A\u0430\u0440\u043B \u0413\u0443\u0441\u0442\u0430\u0432 \u041C\u043E\u0441\u0430\u043D\u0434\u0435\u0440"
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
@@ -28885,7 +29064,7 @@ Prefab:
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: yearOfDiscovery
-      value: 0
+      value: 1843
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 57946c9028d0a34469680859ce0b7473, type: 2}
@@ -29427,42 +29606,48 @@ Prefab:
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: elementName
-      value: 
+      value: "\u041E\u0441\u043C\u0438\u0439"
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: elementSymbol
-      value: 
+      value: Os
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: description
-      value: 
+      value: "\u041E\u0441\u043C\u0438\u0439 \u0442\u0435\u0442\u0440\u043E\u043A\u0441\u0438\u0434
+        \u0441\u0435 \u0438\u0437\u043F\u043E\u043B\u0437\u0432\u0430 \u0437\u0430
+        \u043E\u0442\u043A\u0440\u0438\u0432\u0430\u043D\u0435 \u043D\u0430 \u043E\u0442\u043F\u0435\u0447\u0430\u0442\u044A\u0446\u0438
+        \u0438 \u0437\u0430 \u043E\u0446\u0432\u0435\u0442\u044F\u0432\u0430\u043D\u0435
+        \u043D\u0430 \u043C\u0430\u0437\u043D\u0438\u043D\u043D\u0438 \u0442\u044A\u043A\u0430\u043D\u0438
+        \u043F\u0440\u0438 \u043E\u043F\u0442\u0438\u0447\u043D\u0430 \u0438 \u0435\u043B\u0435\u043A\u0442\u0440\u043E\u043D\u043D\u0430
+        \u043C\u0438\u043A\u0440\u043E\u0441\u043A\u043E\u043F\u0438\u044F."
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: atomicNumber
-      value: 0
+      value: 76
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: atomicWeight
-      value: 0
+      value: 190.23
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: meltingPoint
-      value: 0
+      value: 3033
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: boilingPoint
-      value: 0
+      value: 5027
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: discoveredBy
-      value: 
+      value: "\u0421\u043C\u0438\u0442\u0441\u044A\u043D \u0422\u0435\u043D\u0430\u043D\u0442"
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
@@ -29477,7 +29662,7 @@ Prefab:
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: yearOfDiscovery
-      value: 0
+      value: 1803
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 57946c9028d0a34469680859ce0b7473, type: 2}
@@ -29612,42 +29797,46 @@ Prefab:
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: elementName
-      value: 
+      value: "\u041B\u0430\u043D\u0442\u0430\u043D"
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: elementSymbol
-      value: 
+      value: La
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: description
-      value: 
+      value: "\u041F\u044A\u0440\u0432\u043E\u0442\u043E \u0438\u0441\u0442\u043E\u0440\u0438\u0447\u0435\u0441\u043A\u043E
+        \u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0435 \u043D\u0430
+        \u043B\u0430\u043D\u0442\u0430\u043D\u0430 \u0431\u0435\u0448\u0435 \u0432
+        \u043C\u0430\u043D\u0448\u043E\u043D\u0438\u0442\u0435 \u043D\u0430 \u0433\u0430\u0437\u043E\u0432\u0438\u0442\u0435
+        \u043B\u0430\u043C\u043F\u0438."
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: atomicNumber
-      value: 0
+      value: 57
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: atomicWeight
-      value: 0
+      value: 138.90547
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: meltingPoint
-      value: 0
+      value: 920
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: boilingPoint
-      value: 0
+      value: 3464
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: discoveredBy
-      value: 
+      value: "\u041A\u0430\u0440\u043B \u0413\u0443\u0441\u0442\u0430\u0432 \u041C\u043E\u0441\u0430\u043D\u0434\u0435\u0440"
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
@@ -29662,7 +29851,7 @@ Prefab:
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: yearOfDiscovery
-      value: 0
+      value: 1839
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 57946c9028d0a34469680859ce0b7473, type: 2}
@@ -29944,42 +30133,58 @@ Prefab:
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: elementName
-      value: 
+      value: "\u0421\u0430\u043C\u0430\u0440\u0438\u0439"
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: elementSymbol
-      value: 
+      value: Sm
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: description
-      value: 
+      value: "\u0413\u043B\u0430\u0432\u043D\u043E\u0442\u043E \u0442\u044A\u0440\u0433\u043E\u0432\u0441\u043A\u043E
+        \u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0435 \u043D\u0430
+        \u0441\u0430\u043C\u0430\u0440\u0438\u044F \u0435 \u0432 \u0441\u043C\u0435\u0441\u0438\u0442\u0435
+        \u043E\u0442 \u0441\u0430\u043C\u0430\u0440\u0438\u0439-\u043A\u043E\u0431\u0430\u043B\u0442,
+        \u043A\u043E\u0438\u0442\u043E \u0438\u043C\u0430\u0442 \u043F\u043E\u0441\u0442\u043E\u044F\u043D\u043D\u0430
+        \u043C\u0430\u0433\u043D\u0435\u0442\u0438\u0437\u0430\u0446\u0438\u044F,
+        \u0432\u0442\u043E\u0440\u0430 \u0441\u0430\u043C\u043E \u0441\u043B\u0435\u0434
+        \u043C\u0430\u0433\u043D\u0438\u0442\u0438\u0442\u0435 \u043E\u0442 \u043D\u0435\u043E\u0434\u0438\u043C.
+        \u0422\u0435\u0437\u0438 \u043C\u0430\u0433\u043D\u0438\u0442\u0438 \u0441\u0435
+        \u0438\u0437\u043F\u043E\u043B\u0437\u0432\u0430\u0442 \u0432 \u043C\u0430\u043B\u043A\u0438
+        \u043C\u043E\u0442\u043E\u0440\u0438, \u0441\u043B\u0443\u0448\u0430\u043B\u043A\u0438
+        \u0438 \u0432\u0438\u0441\u043E\u043A\u043E\u043A\u0430\u0447\u0435\u0441\u0442\u0432\u0435\u043D\u0438
+        \u043C\u0430\u0433\u043D\u0438\u0442\u043D\u0438 \u043A\u0430\u043C\u0435\u0440\u0438
+        \u0437\u0430 \u043A\u0438\u0442\u0430\u0440\u0438 \u0438 \u0434\u0440\u0443\u0433\u0438
+        \u043C\u0443\u0437\u0438\u043A\u0430\u043B\u043D\u0438 \u0438\u043D\u0441\u0442\u0440\u0443\u043C\u0435\u043D\u0442\u0438."
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: atomicNumber
-      value: 0
+      value: 62
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: atomicWeight
-      value: 0
+      value: 150.36
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: meltingPoint
-      value: 0
+      value: 1072
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: boilingPoint
-      value: 0
+      value: 1794
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: discoveredBy
-      value: 
+      value: "\u041F\u043E\u043B-\u0415\u043C\u0438\u043B \u041B\u044C\u043E\u043A\u043E\u043A
+        \u0434\u044C\u043E \u0411\u043E\u0430\u0431\u043E\u0434\u0440\u0430\u043D,
+        \u0419\u043E\u0436\u0435\u043D-\u0410\u043D\u0430\u0442\u043E\u043B \u0414\u0435\u043C\u0430\u0440\u0441\u0435"
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
@@ -29994,7 +30199,7 @@ Prefab:
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: yearOfDiscovery
-      value: 0
+      value: 1879
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 57946c9028d0a34469680859ce0b7473, type: 2}
@@ -30505,37 +30710,42 @@ Prefab:
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: elementName
-      value: 
+      value: "\u041E\u043B\u043E\u0432\u043E"
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: elementSymbol
-      value: 
+      value: Pb
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: description
-      value: 
+      value: "\u0417\u0430\u0449\u043E\u0442\u043E \u0435 \u043E\u0442\u043D\u043E\u0441\u0438\u0442\u0435\u043B\u043D\u043E
+        \u043B\u0435\u0441\u043D\u043E \u0437\u0430 \u0438\u0437\u0432\u043B\u0438\u0447\u0430\u043D\u0435
+        (\u0437\u0430 \u043C\u0435\u0442\u0430\u043B), \u043E\u043B\u043E\u0432\u043E\u0442\u043E
+        \u0441\u0435 \u0438\u0437\u043F\u043E\u043B\u0437\u0432\u0430 \u043E\u0442
+        \u043F\u0440\u0435\u0434\u0438\u0441\u0442\u043E\u0440\u0438\u0447\u0435\u0441\u043A\u043E
+        \u0432\u0440\u0435\u043C\u0435."
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: atomicNumber
-      value: 0
+      value: 82
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: atomicWeight
-      value: 0
+      value: 207.2
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: meltingPoint
-      value: 0
+      value: 327
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: boilingPoint
-      value: 0
+      value: 1749
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
@@ -31323,42 +31533,43 @@ Prefab:
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: elementName
-      value: 
+      value: "\u041B\u0443\u0442\u0435\u0446\u0438\u0439"
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: elementSymbol
-      value: 
+      value: Lu
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: description
-      value: 
+      value: "\u041B\u0443\u0442\u0435\u0446\u0438\u044F\u0442 \u0435 \u043D\u0430\u0439-\u0441\u043A\u044A\u043F\u0438\u044F\u0442
+        \u0435\u043B\u0435\u043C\u0435\u043D\u0442."
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: atomicNumber
-      value: 0
+      value: 71
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: atomicWeight
-      value: 0
+      value: 174.967
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: meltingPoint
-      value: 0
+      value: 1663
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: boilingPoint
-      value: 0
+      value: 3402
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: discoveredBy
-      value: 
+      value: "\u0414\u0436\u043E\u0440\u0434\u0436\u0435\u0441 \u042A\u0440\u0431\u0435\u0439\u043D"
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
@@ -31373,7 +31584,7 @@ Prefab:
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: yearOfDiscovery
-      value: 0
+      value: 1907
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 57946c9028d0a34469680859ce0b7473, type: 2}
@@ -35005,42 +35216,47 @@ Prefab:
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: elementName
-      value: 
+      value: "\u0420\u0430\u0434\u043E\u043D"
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: elementSymbol
-      value: 
+      value: Rn
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: description
-      value: 
+      value: "\u0420\u0430\u0434\u043E\u043D\u044A\u0442 \u043C\u043E\u0436\u0435
+        \u0434\u0430 \u0441\u0435 \u0441\u0440\u0435\u0449\u0430 \u0438 \u0432 \u043D\u044F\u043A\u043E\u0438
+        \u043F\u043E\u0434\u0437\u0435\u043C\u043D\u0438 \u0432\u043E\u0434\u0438,
+        \u043A\u0430\u0442\u043E \u0438\u0437\u0432\u043E\u0440\u043D\u0438 \u0432\u043E\u0434\u0438
+        \u0438 \u0442\u043E\u043F\u043B\u0438 \u0438\u0437\u0432\u043E\u0440\u0438."
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: atomicNumber
-      value: 0
+      value: 86
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: atomicWeight
-      value: 0
+      value: 222
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: meltingPoint
-      value: 0
+      value: -71
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: boilingPoint
-      value: 0
+      value: -62
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: discoveredBy
-      value: 
+      value: "\u0424\u0440\u0438\u0434\u0440\u0438\u043A \u042A\u0440\u043D\u0441\u0442
+        \u0414\u043E\u0440\u043D"
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
@@ -35055,7 +35271,7 @@ Prefab:
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: yearOfDiscovery
-      value: 0
+      value: 1900
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 57946c9028d0a34469680859ce0b7473, type: 2}
@@ -35116,42 +35332,45 @@ Prefab:
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: elementName
-      value: 
+      value: "\u0414\u0438\u0441\u043F\u0440\u043E\u0441\u0438\u0439"
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: elementSymbol
-      value: 
+      value: Dy
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: description
-      value: 
+      value: "\u0414\u0438\u0441\u043F\u0440\u043E\u0437\u0438\u0439\u044A\u0442 \u0441\u0435
+        \u0438\u0437\u043F\u043E\u043B\u0437\u0432\u0430 \u0432 \u0441\u043E\u043D\u0430\u0440\u043D\u0438\u0442\u0435
+        \u0441\u0438\u0441\u0442\u0435\u043C\u0438 \u043D\u0430 \u043A\u043E\u0440\u0430\u0431\u0438."
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: atomicNumber
-      value: 0
+      value: 66
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: atomicWeight
-      value: 0
+      value: 162.5
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: meltingPoint
-      value: 0
+      value: 1412
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: boilingPoint
-      value: 0
+      value: 2567
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: discoveredBy
-      value: 
+      value: "\u041F\u043E\u043B-\u0415\u043C\u0438\u043B \u041B\u044C\u043E\u043A\u043E\u043A
+        \u0434\u044C\u043E \u0411\u043E\u0430\u0431\u043E\u0434\u0440\u0430\u043D"
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
@@ -35166,7 +35385,7 @@ Prefab:
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: yearOfDiscovery
-      value: 0
+      value: 1886
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 57946c9028d0a34469680859ce0b7473, type: 2}
@@ -35348,42 +35567,48 @@ Prefab:
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: elementName
-      value: 
+      value: "\u041A\u044E\u0440\u0438\u0439"
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: elementSymbol
-      value: 
+      value: Cm
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: description
-      value: 
+      value: "\u0418\u0437\u043E\u0442\u043E\u043F\u0438\u0442\u0435 \u043D\u0430
+        \u043A\u044E\u0440\u0438\u0439 \u0441\u0435 \u0438\u0437\u043F\u043E\u043B\u0437\u0432\u0430\u0442
+        \u0432 \u043A\u043E\u0441\u043C\u0438\u0447\u0435\u0441\u043A\u0430\u0442\u0430
+        \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0430 \u043A\u0430\u0442\u043E
+        \u0438\u0437\u0442\u043E\u0447\u043D\u0438\u043A \u043D\u0430 \u0442\u043E\u043F\u043B\u0438\u043D\u0430."
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: atomicNumber
-      value: 0
+      value: 96
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: atomicWeight
-      value: 0
+      value: 247
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: meltingPoint
-      value: 0
+      value: 1347
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: boilingPoint
-      value: 0
+      value: 3110
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: discoveredBy
-      value: 
+      value: "\u0413\u043B\u0435\u043D \u0421\u0438\u0431\u043E\u0440\u0433, \u0410\u043B\u0431\u044A\u0440\u0442
+        \u0413\u0438\u043E\u0440\u0441\u043E, \u0420\u0430\u043B\u0444 \u0410\u0440\u0442\u044A\u0440
+        \u0414\u0436\u0435\u0439\u043C\u0441"
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
@@ -35398,7 +35623,7 @@ Prefab:
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: yearOfDiscovery
-      value: 0
+      value: 1944
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 57946c9028d0a34469680859ce0b7473, type: 2}
@@ -36456,42 +36681,51 @@ Prefab:
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: elementName
-      value: 
+      value: "\u041D\u0435\u043E\u0434\u0438\u043C"
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: elementSymbol
-      value: 
+      value: Nd
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: description
-      value: 
+      value: "\u0421\u044A\u0435\u0434\u0438\u043D\u0435\u043D\u0438\u044F\u0442\u0430
+        \u043D\u0430 \u043D\u0435\u043E\u0434\u0438\u043C\u0438\u0439 \u0431\u044F\u0445\u0430
+        \u0438\u0437\u043F\u043E\u043B\u0437\u0432\u0430\u043D\u0438 \u0437\u0430
+        \u043F\u044A\u0440\u0432\u0438 \u043F\u044A\u0442 \u043A\u043E\u043C\u0435\u0440\u0441\u0438\u0430\u043B\u043D\u043E
+        \u043A\u0430\u0442\u043E \u0431\u0430\u0433\u0440\u0438\u043B\u0430 \u0437\u0430
+        \u0441\u0442\u044A\u043A\u043B\u043E \u043F\u0440\u0435\u0437 1927 \u0433.,
+        \u0438 \u043F\u0440\u043E\u0434\u044A\u043B\u0436\u0430\u0432\u0430\u0442
+        \u0434\u0430 \u0431\u044A\u0434\u0430\u0442 \u043F\u043E\u043F\u0443\u043B\u044F\u0440\u043D\u0438
+        \u0434\u043E\u0431\u0430\u0432\u043A\u0438 \u0432\u044A\u0432 \u0432\u0438\u0442\u0440\u0430\u0436\u0438."
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: atomicNumber
-      value: 0
+      value: 60
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: atomicWeight
-      value: 0
+      value: 144.242
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: meltingPoint
-      value: 0
+      value: 1021
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: boilingPoint
-      value: 0
+      value: 3074
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: discoveredBy
-      value: 
+      value: "\u041A\u0430\u0440\u043B \u0410\u0443\u0435\u0440 \u0444\u043E\u043D
+        \u0412\u0435\u043B\u0441\u0431\u0430\u0445"
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
@@ -36506,7 +36740,7 @@ Prefab:
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: yearOfDiscovery
-      value: 0
+      value: 1885
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 57946c9028d0a34469680859ce0b7473, type: 2}
@@ -36972,42 +37206,50 @@ Prefab:
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: elementName
-      value: 
+      value: "\u0420\u0430\u0434\u0438\u0439"
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: elementSymbol
-      value: 
+      value: Ra
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: description
-      value: 
+      value: "\u0420\u0430\u0434\u0438\u0443\u043C\u044A\u0442 \u043F\u0440\u0435\u0434\u0438
+        \u0441\u0435 \u0438\u0437\u043F\u043E\u043B\u0437\u0432\u0430\u0448\u0435
+        \u0432 \u0441\u0430\u043C\u043E\u0441\u0432\u0435\u0442\u0435\u0449\u0438
+        \u0431\u043E\u0438 \u0437\u0430 \u0447\u0430\u0441\u043E\u0432\u043D\u0438\u0446\u0438,
+        \u044F\u0434\u0440\u0435\u043D\u0438 \u043F\u0430\u043D\u0435\u043B\u0438,
+        \u043F\u0440\u0435\u0432\u043A\u043B\u044E\u0447\u0432\u0430\u0442\u0435\u043B\u0438
+        \u043D\u0430 \u0441\u0430\u043C\u043E\u043B\u0435\u0442\u0438, \u0447\u0430\u0441\u043E\u0432\u043D\u0438\u0446\u0438
+        \u0438 \u0434\u0438\u0441\u043A\u043E\u0432\u0435 \u043D\u0430 \u0438\u043D\u0441\u0442\u0440\u0443\u043C\u0435\u043D\u0442\u0438."
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: atomicNumber
-      value: 0
+      value: 88
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: atomicWeight
-      value: 0
+      value: 226
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: meltingPoint
-      value: 0
+      value: 700
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: boilingPoint
-      value: 0
+      value: 1737
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: discoveredBy
-      value: 
+      value: "\u041C\u0430\u0440\u0438\u044F \u041A\u044E\u0440\u0438, \u041F\u0438\u0435\u0440
+        \u041A\u044E\u0440\u0438"
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
@@ -37022,7 +37264,7 @@ Prefab:
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: yearOfDiscovery
-      value: 0
+      value: 1898
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 57946c9028d0a34469680859ce0b7473, type: 2}
@@ -38268,42 +38510,45 @@ Prefab:
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: elementName
-      value: 
+      value: "\u0422\u0443\u043B\u0438\u0439"
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: elementSymbol
-      value: 
+      value: Tm
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: description
-      value: 
+      value: "\u0422\u0443\u043B\u0438\u044F\u0442 \u0441\u0435 \u0438\u0437\u043F\u043E\u043B\u0437\u0432\u0430
+        \u0432 \u0435\u0432\u0440\u043E\u043F\u0435\u0439\u0441\u043A\u0438\u0442\u0435
+        \u0431\u0430\u043D\u043A\u043D\u043E\u0442\u0438 \u043A\u0430\u0442\u043E
+        \u043C\u044F\u0440\u043A\u0430 \u0441\u0440\u0435\u0449\u0443 \u0444\u0430\u043B\u0448\u0438\u0444\u0438\u0446\u0438\u0440\u0430\u043D\u0435."
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: atomicNumber
-      value: 0
+      value: 69
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: atomicWeight
-      value: 0
+      value: 168.93421
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: meltingPoint
-      value: 0
+      value: 1549
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: boilingPoint
-      value: 0
+      value: 1950
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: discoveredBy
-      value: 
+      value: "\u041F\u0435\u0440 \u0422\u0438\u043E\u0434\u043E\u0440 \u041A\u043B\u0438\u0439\u0432"
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
@@ -38318,7 +38563,7 @@ Prefab:
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: yearOfDiscovery
-      value: 0
+      value: 1879
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 57946c9028d0a34469680859ce0b7473, type: 2}
@@ -38527,42 +38772,51 @@ Prefab:
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: elementName
-      value: 
+      value: "\u0411\u0430\u0440\u0438\u0439"
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: elementSymbol
-      value: 
+      value: Ba
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: description
-      value: 
+      value: "\u0410\u043B\u0445\u0438\u043C\u0438\u0446\u0438\u0442\u0435 \u0431\u044F\u0445\u0430
+        \u043F\u0440\u0438\u0432\u043B\u0435\u0447\u0435\u043D\u0438 \u043E\u0442
+        \u043A\u0430\u043C\u044A\u043D\u0438\u0442\u0435, \u043D\u0430\u043F\u0440\u0430\u0432\u0435\u043D\u0438
+        \u043E\u0442 \u043D\u0435\u0447\u0438\u0441\u0442 \u0441\u0443\u043B\u0444\u0430\u0442
+        \u043D\u0430 \u0431\u0430\u0440\u0438\u0439, \u0437\u0430\u0449\u043E\u0442\u043E
+        \u0441\u043B\u0435\u0434 \u0438\u0437\u043B\u0430\u0433\u0430\u043D\u0435
+        \u043D\u0430 \u0441\u0432\u0435\u0442\u043B\u0438\u043D\u0430 \u0442\u0435
+        \u0441\u0432\u0435\u0442\u044F\u0445\u0430 \u0433\u043E\u0434\u0438\u043D\u0438
+        \u043D\u0430\u0440\u0435\u0434."
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: atomicNumber
-      value: 0
+      value: 56
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: atomicWeight
-      value: 0
+      value: 137.327
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: meltingPoint
-      value: 0
+      value: 727
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: boilingPoint
-      value: 0
+      value: 1897
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: discoveredBy
-      value: 
+      value: "\u0425\u044A\u043C\u0444\u0440\u0438 \u0414\u0435\u0439\u0432\u0438,
+        \u041A\u0430\u0440\u043B \u0412\u0438\u043B\u0445\u0435\u043B\u043C \u0428\u0435\u0435\u043B\u0435"
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
@@ -38577,7 +38831,7 @@ Prefab:
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: yearOfDiscovery
-      value: 0
+      value: 1808
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 57946c9028d0a34469680859ce0b7473, type: 2}
@@ -39307,42 +39561,47 @@ Prefab:
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: elementName
-      value: 
+      value: "\u0410\u043C\u0435\u0440\u0438\u0446\u0438\u0439"
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: elementSymbol
-      value: 
+      value: Am
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: description
-      value: 
+      value: "\u0410\u043C\u0435\u0440\u0438\u0446\u0438\u0443\u043C\u044A\u0442 \u0441\u0435
+        \u0438\u0437\u043F\u043E\u043B\u0437\u0432\u0430 \u043E\u0431\u0438\u0447\u0430\u0439\u043D\u043E
+        \u0432 \u043F\u043E\u0436\u0430\u0440\u043E\u0438\u0437\u0432\u0435\u0441\u0442\u0438\u0442\u0435\u043B\u043D\u0438\u0442\u0435
+        \u0441\u0438\u0441\u0442\u0435\u043C\u0438."
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: atomicNumber
-      value: 0
+      value: 95
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: atomicWeight
-      value: 0
+      value: 243
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: meltingPoint
-      value: 0
+      value: 1176
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: boilingPoint
-      value: 0
+      value: 2607
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: discoveredBy
-      value: 
+      value: "\u0413\u043B\u0435\u043D \u0421\u0438\u0431\u043E\u0440\u0433, \u0410\u043B\u0431\u044A\u0440\u0442
+        \u0413\u0438\u043E\u0440\u0441\u043E, \u0420\u0430\u043B\u0444 \u0410\u0440\u0442\u044A\u0440
+        \u0414\u0436\u0435\u0439\u043C\u0441"
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
@@ -39357,7 +39616,7 @@ Prefab:
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: yearOfDiscovery
-      value: 0
+      value: 1944
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 57946c9028d0a34469680859ce0b7473, type: 2}
@@ -39492,42 +39751,45 @@ Prefab:
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: elementName
-      value: 
+      value: "\u041A\u0430\u043B\u0438\u0444\u043E\u0440\u043D\u0438\u0439"
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: elementSymbol
-      value: 
+      value: Cf
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: description
-      value: 
+      value: "\u041A\u0430\u043B\u0438\u0444\u043E\u0440\u043D\u0438\u044F \u0441\u0435
+        \u0440\u0435\u0436\u0435 \u043B\u0435\u0441\u043D\u043E \u0441 \u0431\u0440\u044A\u0441\u043D\u0430\u0440\u0441\u043A\u043E
+        \u043D\u043E\u0436\u0447\u0435."
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: atomicNumber
-      value: 0
+      value: 98
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: atomicWeight
-      value: 0
+      value: 251
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: meltingPoint
-      value: 0
+      value: 899
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: boilingPoint
-      value: 0
+      value: 1472
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: discoveredBy
-      value: 
+      value: "\u0410\u043B\u0431\u044A\u0440\u0442 \u0413\u0438\u043E\u0440\u0441\u043E,
+        \u0413\u043B\u0435\u043D \u0421\u0438\u0431\u043E\u0440\u0433"
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
@@ -39542,7 +39804,7 @@ Prefab:
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: yearOfDiscovery
-      value: 0
+      value: 150
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 57946c9028d0a34469680859ce0b7473, type: 2}
@@ -40051,37 +40313,40 @@ Prefab:
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: elementName
-      value: 
+      value: "\u0416\u0438\u0432\u0430\u043A"
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: elementSymbol
-      value: 
+      value: Hg
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: description
-      value: 
+      value: "\u0416\u0438\u0432\u0430\u043A\u044A\u0442 \u0435 \u0435\u0434\u0438\u043D
+        \u043E\u0442 \u043C\u0430\u043B\u043A\u043E\u0442\u043E \u0435\u043B\u0435\u043C\u0435\u043D\u0442\u0438,
+        \u043A\u043E\u0438\u0442\u043E \u0441\u0430 \u0442\u0435\u0447\u043D\u0438
+        \u043F\u0440\u0438 \u0441\u0442\u0430\u0439\u043D\u0430 \u0442\u0435\u043C\u043F\u0435\u0440\u0430\u0442\u0443\u0440\u0430."
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: atomicNumber
-      value: 0
+      value: 80
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: atomicWeight
-      value: 0
+      value: 200.59
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: meltingPoint
-      value: 0
+      value: -39
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
       propertyPath: boilingPoint
-      value: 0
+      value: 357
       objectReference: {fileID: 0}
     - target: {fileID: 114367342673201468, guid: 57946c9028d0a34469680859ce0b7473,
         type: 2}
