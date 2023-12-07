@@ -18,28 +18,27 @@ public class Element : MonoBehaviour
 	public Canvas elementCanvas;
 
 	private Vector3 originalPosition;
-	private bool isOpen = false;
+	private Vector3 originalScale;
+	public bool isOpen = false;
 	
 	private void Start()
     {
 		// Store the original position of the element
 		elementCanvas.gameObject.SetActive(false);
 		originalPosition = transform.position;
+		originalScale = transform.localScale;
 	}
 	private void OnMouseDown()
     {
-        if (!isOpen)
-        {
+		if (isOpen == false)
+		{
 			OpenElementBox();
-        }
-        else
+		}
+		else if (isOpen == true)
         {
 			CloseElementBox();
-			float delay = 3.0f;
-			Invoke("ReturnToOriginalPosition",delay);
 		}
-    }
-
+	}
     private void OpenElementBox()
     {
 		// Move the element closer to the player (you can adjust the position)
@@ -56,17 +55,26 @@ public class Element : MonoBehaviour
 			meltingPoint, boilingPoint, discoveredBy, yearOfDiscovery);
 
 		// Show 3D Bohr model
-		Instantiate(bohrModelPrefab, transform.position + new Vector3(0f, 0f, 0f), Quaternion.identity);
-
+		Vector3 roundedPosition = new Vector3(
+		Mathf.Floor(transform.position.x),
+		Mathf.Floor(transform.position.y),
+		Mathf.Floor(transform.position.z)
+		);
+		Instantiate(bohrModelPrefab, roundedPosition + new Vector3(0f, 0f, -4.25f), Quaternion.identity).
+			transform.localScale = new Vector3(0.1f, 0.1f, 0.1f);
 		isOpen = true;
 	}
 
-	private void CloseElementBox()
+	public void CloseElementBox()
     {
 		// Move the element back to its original position
 		Vector3 targetPosition = originalPosition;
 		float speed = 2f;
 
+		while (Vector3.Distance(transform.position, targetPosition) > 0.0f)
+		{
+			transform.position = Vector3.MoveTowards(transform.position, targetPosition, speed * Time.deltaTime);
+		}
 		// Hide the UI canvas
 		elementCanvas.gameObject.SetActive(false);
 
